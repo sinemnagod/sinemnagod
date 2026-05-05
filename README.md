@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sinem <br>
-🎓 I'm a 4th-year Software Engineering student focused on building modern web applications and continuously improving my frontend development skills.<br>
+ I'm a 4th-year Software Engineering student focused on building modern web applications and continuously improving my frontend development skills.<br>
 ##  What I'm currently working on<br>
 My graduation project: Parkinson’s Disease Prediction Web App<br>🔗 https://github.com/sinemnagod/parkinson_web_app<br>Improving real-world frontend development through hands-on projects<br>Collaborating on team-based projects using tools like Notion<br>
 ##  About my graduation project<br>
@@ -7,7 +7,7 @@ Developed a web application that predicts Parkinson’s disease using machine le
 ##  What I'm currently learning<br>
 Advanced JavaScript and modern frontend development<br>Building responsive and user-friendly interfaces<br>Product development & entrepreneurship<br>
 ##  Education & Programs<br>
-- SoftIto Frontend Developer Program<br>Intensive, full-time training (6 days/week, 9 AM – 6 PM)<br>Focus on practical development and teamwork<br>- Huawei Cloud AI Bootcamp<br>Gained foundational knowledge of AI concepts and cloud-based AI services<br>- Up School Future Talent Program<br>Completed Module 101 & 201<br>Currently continuing with entrepreneurship & product development (Module 301)<br>
+- SoftIto Frontend Developer Program<br>Intensive, full-time training (6 days/week, 9 AM – 6 PM)<br>Focus on practical development and teamwork<br> - Huawei Cloud AI Bootcamp<br>Gained foundational knowledge of AI concepts and cloud-based AI services<br> - Up School Future Talent Program<br>Completed Module 101 & 201<br>Currently continuing with entrepreneurship & product development (Module 301)<br>
 ##  Experience<br>
 Frontend Intern (7 months)<br>Built web projects using HTML, CSS, and JavaScript<br>Gained hands-on experience in real development workflows<br>🛠️ Tech Stack<br>Languages: JavaScript, Python, SQL, Swift<br>Frontend: HTML, CSS, JavaScript<br>
 ##  Content & Sharing<br>
