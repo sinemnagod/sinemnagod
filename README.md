@@ -4,6 +4,8 @@
 
 I'm passionate about building clean, user-focused web interfaces. I recently completed a 7-month frontend internship at a digital agency, and I'm currently in an intensive frontend training programme while finishing my graduation project.
 
+📄 **[View my CV](./sinem_dogan_cv.pdf)**
+
 ---
 
 ## Featured Project
