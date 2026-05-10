@@ -1,33 +1,55 @@
-# 👋 Hi, I'm Sinem <br>
- I'm a 4th-year Software Engineering student focused on building modern web applications and continuously improving my frontend development skills.<br>
-##  What I'm currently working on<br>
-- My graduation project: Parkinson’s Disease Prediction Web App<br>🔗 https://github.com/sinemnagod/parkinson_web_app<br>
-- Improving real-world frontend development through hands-on projects<br>
-##  About my graduation project<br>
-- Developed a web application that predicts Parkinson’s disease using machine learning<br>
-- Takes user input and returns prediction results<br>
-- Combines frontend development with AI integration<br>
-- Focused on usability and real-world application of ML models<br>
-##  What I'm currently learning<br>
-- Advanced JavaScript and modern frontend development<br>
-- Building responsive and user-friendly interfaces<br>
-- Product development & entrepreneurship<br>
-##  Education & Programs<br>
-- SoftIto Frontend Developer Program<br>Intensive, full-time training (6 days/week, 9 AM – 6 PM)<br>Focus on practical development and teamwork<br> 
-- Huawei Cloud AI Bootcamp<br>Gained foundational knowledge of AI concepts and cloud-based AI services<br> 
-- Up School Future Talent Program<br>Completed Module 101 & 201<br>Currently continuing with entrepreneurship & product development (Module 301)<br>
-##  Experience<br>
-Frontend Intern (7 months)<br>Built web projects using HTML, CSS, and JavaScript<br>Gained hands-on experience in real development workflows<br> Tech Stack<br>Languages: JavaScript, Python, SQL, Swift<br>Frontend: HTML, CSS, JavaScript<br>
-##  Content & Sharing<br>
-Writing technical articles on Medium about web development and performance
-##  Goals<br>
-- Become a strong frontend developer<br>
-- Build impactful and user-focused applications<br>
-- Continuously grow through learning and building
+# Hi, I'm Sinem 👋
 
+**Frontend Web Development** · Final-year Software Engineering Student · Istanbul, Türkiye
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinemdogan58/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sinem121995) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sinem121995@hotmail.com) 
+I'm passionate about building clean, user-focused web interfaces. I recently completed a 7-month frontend internship at a digital agency, and I'm currently in an intensive frontend training programme while finishing my graduation project.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+---
+
+## Featured Project
+
+### [ParkinScan](https://parkinscan.netlify.app) — AI-Powered Parkinson's Detection Web App
+> My graduation project at İstanbul Aydın University
+
+A web application that screens for early signs of Parkinson's disease through **real-time facial expression analysis** — entirely in the browser, no installation needed.
+
+**What I built:**
+- Complete single-page frontend (HTML, CSS, JavaScript)
+- Real-time facial tracking UI using **MediaPipe FaceMesh** (468 landmarks, 6 guided expressions)
+- Client-side PDF report generation with **jsPDF**
+- REST API integration with a FastAPI + CNN+LSTM AI model backend
+- Full-stack deployment: **Netlify** (frontend) + **Render** (backend) with CI/CD via GitHub
+
+🔗 **Live app:** [parkinscan.netlify.app](https://parkinscan.netlify.app) &nbsp;|&nbsp; [View Repository](https://github.com/sinemnagod/parkinson_web_app)
+
+---
+
+## Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+---
+
+## Currently
+
+- Finishing my B.Sc. Software Engineering at **İstanbul Aydın University** (graduating 2026)
+- Attending **SoftIto Yazılım Bilişim Akademisi** — intensive full-time frontend programme
+- Learning advanced JavaScript and modern frontend development patterns
+- Completing **Up School Future Talent Program** — Module 301, focused on AI-driven product development
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinemdogan58)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sinem121995)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sinem121995@hotmail.com)
