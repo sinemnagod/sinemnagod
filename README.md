@@ -1,4 +1,3 @@
-[github_README-3.md](https://github.com/user-attachments/files/30858478/github_README-3.md)
 # Hi, I'm Sinem 👋
 
 **Frontend Developer** · React · TypeScript · Tailwind CSS · Istanbul, Türkiye
