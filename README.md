@@ -4,8 +4,7 @@
 
 Software Engineering graduate from İstanbul Aydın University. I've shipped production-ready frontends across internships, team projects, and solo builds — currently interning at FLO Group and Flyrank AI while continuing to build.
 
-📄 **[View my CV](./sinem_dogan.pdf)**
-
+📄 **[View my CV](https://github.com/sinemnagod/sinemnagod/raw/main/sinem_dogan.pdf)**
 ---
 
 ## Projects
